@@ -1,0 +1,17 @@
+{
+  "name": "servidordomarcos",
+  "version": "1.0.0",
+  "description": "Bot legal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "zMarcoos",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "express": "^4.17.1",
+    "jimp": "^0.13.0"
+  }
+}
